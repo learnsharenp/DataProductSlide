@@ -7,8 +7,8 @@ highlighter : highlight.js  # {highlight.js, prettify, highlight}
 hitheme     : tomorrow      # 
 url:
 #  lib: ../../libraries
-  lib: ../../librariesNew
-  assets: ../../assets
+  lib: ./librariesNew
+  assets: ./assets
 widgets     : [mathjax, quiz, bootstrap]
 mode        : selfcontained # {standalone, draft}
 ---
